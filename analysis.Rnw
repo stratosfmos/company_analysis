@@ -1,0 +1,11 @@
+\documentclass{article}
+
+\begin{document}
+
+<<results='markup'>>=
+source('script.R')
+@
+
+
+
+\end{document}
